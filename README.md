@@ -1,7 +1,7 @@
 
-# ajax-laravel-validator
+# Ajax Laravel Validator
 
-Include ALV in your project
+#### Include ALV in your project
 ````
     <!--ALV-->
     <script src="{{ asset('plugins/ajax-laravel-validator/dist/libs/jquery.form.js') }}"></script>
